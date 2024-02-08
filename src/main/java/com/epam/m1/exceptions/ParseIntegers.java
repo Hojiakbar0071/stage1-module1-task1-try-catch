@@ -14,8 +14,6 @@ public class ParseIntegers {
             Arrays.asList(
                     "JDK 17 has released on 14 September 2021 with 10 new features, 2 feature removals and 2 feature deprecations."
                             .split(" "));
-
-<<<<<<< HEAD
 /*    public static void main(String[] args) {
 =======
     public static void main(String[] args) {
