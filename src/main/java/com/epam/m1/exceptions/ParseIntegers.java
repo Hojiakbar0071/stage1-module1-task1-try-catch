@@ -15,7 +15,11 @@ public class ParseIntegers {
                     "JDK 17 has released on 14 September 2021 with 10 new features, 2 feature removals and 2 feature deprecations."
                             .split(" "));
 
+<<<<<<< HEAD
 /*    public static void main(String[] args) {
+=======
+    public static void main(String[] args) {
+>>>>>>> origin/master
         Iterator<String> words = WORDS.iterator();
         int sum = 0;
         String justWords = "";
@@ -26,6 +30,7 @@ public class ParseIntegers {
         }
         System.out.println("Sum is " + sum);
         System.out.println("Just words:" + justWords);
+<<<<<<< HEAD
         */
             public static void main(String[] args) {
                 String[] WORDS = {"apple", "banana", "5", "orange", "10", "grape"};
